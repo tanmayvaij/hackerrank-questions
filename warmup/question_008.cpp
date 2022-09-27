@@ -1,3 +1,11 @@
+/*
+
+    Mini-Max Sum
+
+    https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
