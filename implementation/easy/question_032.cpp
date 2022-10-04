@@ -1,3 +1,11 @@
+/*
+
+    Repeated String
+
+    https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true
+
+*/
+
 #include <iostream>
 using namespace std;
 
