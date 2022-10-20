@@ -1,3 +1,11 @@
+/*
+
+    Append and Delete
+
+    https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true
+
+*/
+
 #include <iostream>
 using namespace std;
 
